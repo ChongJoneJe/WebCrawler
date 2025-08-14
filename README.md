@@ -1,4 +1,4 @@
-* Web Crawler & Command-Line Search Tool
+# Web Crawler & Command-Line Search Tool
 
 This project is a command-line search tool built in Python, designed to crawl a target website, build an inverted index of its content, and allow users to perform search queries against that index.
 
